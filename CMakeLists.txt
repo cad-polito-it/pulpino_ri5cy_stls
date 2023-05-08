@@ -1,0 +1,7 @@
+add_subdirectory(stl01)
+add_subdirectory(stl02)
+add_subdirectory(stl03)
+add_subdirectory(stl04)
+add_subdirectory(stl05)
+add_subdirectory(stl06)
+add_subdirectory(stl07)
