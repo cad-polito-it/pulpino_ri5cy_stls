@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "CAD Group, Politecnico di Torino"
+  given-names:
+title: "Stuck-At STLs for pulpino-ri5cy"
+version: 1.0
+date-released: 2023-5-8
+url: "https://github.com/cad-polito-it/pulpino_ri5cy_stls"
